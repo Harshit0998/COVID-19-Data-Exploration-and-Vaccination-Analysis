@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can paste directly into your GitHub repo for your **COVID-19 Data Exploration using SQL** project.
-
----
-
 # 🦠 COVID-19 Data Exploration using SQL
 
 This project explores global COVID-19 data using **SQL** to extract meaningful insights about cases, deaths, infection rates, and vaccination trends across countries and continents.
